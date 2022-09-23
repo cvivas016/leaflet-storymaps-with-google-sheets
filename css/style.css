@@ -105,16 +105,16 @@ body {
 .source {
   font-size: 9pt;
   font-style: italic;
-  color: gray;
+  color: #004E89;
 }
 a.source:visited {
-  color: grey;
+  color: #AAA;
 }
 
 .description {
   margin: 20px;
   text-align: left;
-  font-size: 11pt;
+  font-size: 12pt;
   padding: 20px;
 }
 
